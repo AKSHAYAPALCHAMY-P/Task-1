@@ -48,9 +48,8 @@
                     nAdults = Adult - nAdults;
                     nChildrens = Children - nChildrens;
                 }
-
-                break;
-            }
+                    
+                }
             }
 
         }
